@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/e8b9e3b0-8a33-4dd6-8385-dd365e45a6cd
 Steamapps/common/Undertale/data.win
 ```
 
-Download the [data.win]() file and place in your Steam apps folder
+Download the [data.win](https://github.com/barrettsmithbb/girl_dm_-Undertale-mod/blob/main/data.win) file and place in your Steam apps folder
 
 ```
 Steamapps/common/Undertale/
