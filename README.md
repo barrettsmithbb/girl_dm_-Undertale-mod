@@ -7,6 +7,12 @@ The main character of Undertale has been replaced with [girl_dm_](https://www.tw
 
 <img width="80" height="120" alt="girl_dm_ref_2" src="https://github.com/user-attachments/assets/40b2a3a7-9e31-4694-9f59-c89290f36a76" />
 
+
+
+https://github.com/user-attachments/assets/e8b9e3b0-8a33-4dd6-8385-dd365e45a6cd
+
+
+
 # Installing
 > [!CAUTION]
 > Before installing this mod make a backup of your Undertale data.win file
